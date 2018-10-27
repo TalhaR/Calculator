@@ -1,2 +1,2 @@
 # Calculator
-Standard Calculator with GUI
+Standard Calculator with GUI using JavaFX
